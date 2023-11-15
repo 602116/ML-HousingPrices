@@ -2,8 +2,8 @@
 ML Assignment 2
 
 Gruppemedlemmer:
-Øyvind Onarheim
-Andre Ripman
+Øyvind Onarheim, 
+Andre Ripman, 
 Tor Magne Solheimsnes
 
 
